@@ -10,4 +10,8 @@ Agrego algunas cosas mas que me gustan: 🇦🇷 , ⚽ , 🎾 , 🥑
 
 esta es la ultima linea para la actividad 
 
-Config files for my GitHub profile.
+nueva actividad
+
+finalizando con github
+modoficando listas
+para realizar la ultima modificacion
