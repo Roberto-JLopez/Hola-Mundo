@@ -42,10 +42,6 @@ Copiar código
 git push origin --delete v1.0.0
 Estos comandos te permitirán gestionar etiquetas en tu proyecto utilizando Git Bash.
 
-Dijiste:
-como cerrar vin
-ChatGPT dijo:
-ChatGPT
 Para cerrar vim (o vi), puedes seguir estos pasos dependiendo de tu situación:
 
 1. Si no has realizado cambios o quieres salir sin guardar:
