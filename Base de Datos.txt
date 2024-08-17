@@ -66,3 +66,4 @@ Con estos comandos, puedes cerrar vim de acuerdo con lo que necesites hacer.
 ______________________________volvermos al ruedo 
 agregando cosas
 solo para sumar
+mas texto
