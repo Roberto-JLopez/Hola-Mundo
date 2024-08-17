@@ -63,4 +63,4 @@ Escribe :w y presiona Enter.
 :w guarda los cambios, pero mantiene vim abierto.
 Con estos comandos, puedes cerrar vim de acuerdo con lo que necesites hacer.
 
-_______________________________
+______________________________volvermos al ruedo 
