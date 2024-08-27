@@ -14,6 +14,6 @@ esta es la ultima linea para la actividad
 
 nueva actividad
 
-finalizando con github
+
 modoficando listas
 para realizar la ultima modificacion
