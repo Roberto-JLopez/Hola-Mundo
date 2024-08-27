@@ -14,7 +14,7 @@ esta es la ultima linea para la actividad
 
 nueva actividad
 
-practica
+practica 27/08
 
 
 modoficando listas
