@@ -12,7 +12,7 @@ Agrego algunas cosas mas que me gustan: 🇦🇷 , ⚽ , 🎾 , 🥑
 
 esta es la ultima linea para la actividad 
 
-nueva actividad
+nueva actividad 27/08
 
 
 modoficando listas
